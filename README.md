@@ -14,7 +14,7 @@ The goal is not only to complete the labs, but to understand how web vulnerabili
 |---|---|---|
 | 01 | API Testing | ✅ Completed |
 | 02 | Server-side vulnerabilities | ⏳ Not started |
-| 03 | SQL injection | ⏳ Not started |
+| 03 | SQL injection | ✅ Completed |
 | 04 | Web LLM attacks | ⏳ Not started |
 | 05 | Cross-site request forgery (CSRF) | ⏳ Not started |
 | 06 | Web cache deception | ⏳ Not started |
@@ -45,7 +45,13 @@ For each learning path, I document:
 
 ## Progress
 
-This repository will be updated progressively as each learning path is completed.
+This repository is updated progressively as each learning path is completed.
+
+Current progress:
+
+- **2 / 17 Learning Paths completed**
+- API Testing
+- SQL Injection
 
 ## Platform
 
