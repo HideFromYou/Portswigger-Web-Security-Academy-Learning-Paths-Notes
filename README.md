@@ -25,7 +25,7 @@ The goal is not only to complete the labs, but to understand how web vulnerabili
 | 11 | Clickjacking (UI redressing) | ⏳ Not started |
 | 12 | GraphQL API vulnerabilities | ⏳ Not started |
 | 13 | Cross-origin resource sharing (CORS) | ⏳ Not started |
-| 14 | Path traversal | ⏳ Not started |
+| 14 | Path traversal | ✅ Completed |
 | 15 | NoSQL injection | ⏳ Not started |
 | 16 | Race conditions | ⏳ Not started |
 | 17 | File upload vulnerabilities | ⏳ Not started |
@@ -49,9 +49,10 @@ This repository is updated progressively as each learning path is completed.
 
 Current progress:
 
-- **2 / 17 Learning Paths completed**
+- **3 / 17 Learning Paths completed**
 - API Testing
 - SQL Injection
+- Path Traversal
 
 ## Platform
 
