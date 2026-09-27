@@ -22,7 +22,7 @@ The goal is not only to complete the labs, but to understand how web vulnerabili
 | 08 | Authentication vulnerabilities | ⏳ Not started |
 | 09 | Server-side request forgery (SSRF) attacks | ⏳ Not started |
 | 10 | Prototype pollution | ⏳ Not started |
-| 11 | Clickjacking (UI redressing) | ⏳ Not started |
+| 11 | Clickjacking (UI redressing) | ✅ Completed |
 | 12 | GraphQL API vulnerabilities | ⏳ Not started |
 | 13 | Cross-origin resource sharing (CORS) | ⏳ Not started |
 | 14 | Path traversal | ✅ Completed |
