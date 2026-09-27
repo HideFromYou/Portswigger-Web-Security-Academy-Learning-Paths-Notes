@@ -49,11 +49,11 @@ This repository is updated progressively as each learning path is completed.
 
 Current progress:
 
-- **3 / 17 Learning Paths completed**
+- **4 / 17 Learning Paths completed**
 - API Testing
 - SQL Injection
 - Path Traversal
-
+- Clickjacking (UI redressing)
 ## Platform
 
 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
