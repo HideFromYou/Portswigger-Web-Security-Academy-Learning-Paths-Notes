@@ -27,7 +27,7 @@ The goal is not only to complete the labs, but to understand how web vulnerabili
 | 13 | Cross-origin resource sharing (CORS) | ⏳ Not started |
 | 14 | Path traversal | ✅ Completed |
 | 15 | NoSQL injection | ⏳ Not started |
-| 16 | Race conditions | ⏳ Not started |
+| 16 | Race conditions | ✅ Completed |
 | 17 | File upload vulnerabilities | ⏳ Not started |
 
 ## Approach
@@ -49,11 +49,12 @@ This repository is updated progressively as each learning path is completed.
 
 Current progress:
 
-- **4 / 17 Learning Paths completed**
+- **5 / 17 Learning Paths completed**
 - API Testing
 - SQL Injection
 - Path Traversal
 - Clickjacking (UI redressing)
+- Race Conditions
 ## Platform
 
 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
